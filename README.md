@@ -2,7 +2,7 @@
 
 Plugin PMMP WingUI For Server Minecraft PE/BE
 
-*Phar: [here](https://www.mediafire.com/download/7qy556433fyymfp)*
+*Phar: [here](link)*
 
 
 ## INFO
